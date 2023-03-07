@@ -26,9 +26,10 @@ If you want to copy all projects at once, you will need to install the following
 * plotly_express
 * streamlit
 * telethon
+* customtkinter
 
-You can install these packages using pip: ```pip install pandas pandasql plotly selenium numpy beautifulsoup emoji httpx json requests plotly_express streamlit telethon```
-Or using conda if you're that kind of guy: ```conda install pandas pandasql plotly selenium numpy beautifulsoup emoji httpx json requests plotly_express streamlit telethon```
+You can install these packages using pip: ```pip install pandas pandasql plotly selenium numpy beautifulsoup emoji httpx json requests plotly_express streamlit telethon customtkinter```
+Or using conda if you're that kind of guy: ```conda install pandas pandasql plotly selenium numpy beautifulsoup emoji httpx json requests plotly_express streamlit telethon customtkinter```
 
 ### Running the Projects
 To run the project, simply run the code in a python environment. The plots will be displayed inline.
@@ -49,3 +50,4 @@ To run the project, simply run the code in a python environment. The plots will 
 * [requests](https://pypi.org/project/requests/)
 * [streamlit](https://streamlit.io/)
 * [telethon](https://docs.telethon.dev/)
+* [customtkinter](https://github.com/TomSchimansky/CustomTkinter/)
